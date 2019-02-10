@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://www.dropbox.com/s/y4kl2gv1akv7y4i/stage-2.pth?raw=1'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1pB9kcomNvK1fF0uUXRNXNauGbIJWpyaP'
 model_file_name = 'model'
 classes = ['maruti-baleno','maruti-swift','maruti-wagonr', 'maruti-vitara-breeza', 'hyundai-creta', 'mahindra-scorpio'
           , 'hyundai-elite-i20', 'maruti-dzire', 'renault-kwid', 'toyota-fortuner', 'toyota-innova', 'maruti-ertiga'
